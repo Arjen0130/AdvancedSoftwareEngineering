@@ -17,6 +17,7 @@
  *
  * Created by Mengning,2012/12/30
  * Provide right Callback interface by Mengning,2012/09/17
+ * Changed the SearchLinkTableNode function and make the interface to be more independabel, by ZhangRunjie, 2017/10/16
  *
  */
 

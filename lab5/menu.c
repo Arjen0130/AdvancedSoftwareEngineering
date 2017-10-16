@@ -16,6 +16,7 @@
  * Revision log:
  *
  * Created by Mengning, 2014/08/31
+ * Changed the SearchCondition and FindCmd function to make the program to be more Modularized, by ZhangRunjie, 2017/10/16
  *
  */
 

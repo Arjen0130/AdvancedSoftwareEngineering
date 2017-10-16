@@ -16,6 +16,7 @@
  * Revision log:
  *
  * Created by Mengning,2012/12/30
+ * Changed the SearchLinkTableNode function and make the interface to be more independabel, by ZhangRunjie, 2017/10/16
  *
  */
 
