@@ -42,7 +42,7 @@ int compare(int argc, char * argv[])
     /*     printf("The argv[%d] = %s\n", i, argv[i]); */
     /* } */
     /* printf("optind: %d\n", optind); */
-    optind = 1;  //这句必不可少，否则，多次执行相同的参数时，会出现结果不一致的情
+    optind = 1;  //这句必不可少，否则，多次执行相同的参数时，会出现结果不一致的情况
     while((ch = getopt(argc, argv, "a:b:")) != -1)
     {
         printf("optind: %d\n", optind);
